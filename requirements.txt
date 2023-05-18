@@ -5,7 +5,6 @@ gapandas==1.0
 pandas==1.5.3
 pandas-profiling==3.6.6
 altair==4.2.0
-anaconda-navigator==2.2.0
 analytics-python==1.4.post1
 ansi2html==1.8.0
 appdirs==1.4.4
