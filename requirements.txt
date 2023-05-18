@@ -1,7 +1,6 @@
 imbalanced-learn==0.10.1
 imblearn==0.0
 dataprep==0.4.5
-datashape==0.5.4
 gapandas==1.0
 pandas==1.5.3
 pandas-profiling==3.6.6
@@ -45,7 +44,6 @@ dash-daq==0.5.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 dask==2023.3.2
-
 dill==0.3.6
 dtale==2.13.0
 ecommercetools==0.42.9
